@@ -14,7 +14,7 @@
   - [Preamble](#preamble)
     - [Current Focus](#current-focus)
   - [Experience](#experience)
-    - [Current Experience](#current-experience)
+    - [Recent Experience](#recent-experience)
     - [Past Experience](#past-experience)
   - [Studies](#studies)
     - [Current Study](#current-study)
@@ -30,13 +30,13 @@ The last 5 years in New Zealand was as an IT manager that included system engine
 
 My past before said startup has been a 50/50 split of technical and creative experiences. I have a past background in on-set production and post VFX / Compositing which also includes on-set and post audio for small movies, music, and commercials in Nashville and New York City. Today, I'm currently studying CyberSecurity and [Shooting ocean sports](https://www.kite.nz) in my spare time.
 
-| Professional Skillset        | Hobby Skillset       |
-| ---------------------------- | -------------------- |
-| On Prem and Cloud DevOps     | Unreal Engine        |
-| Ansible Automation           | Photography          |
-| Server Administration        | Digital Art          |
-| Bare Metal via Maas          | Photogrammetry       |
-| Virtualization               | Blockchain use cases |
+| Professional Skillset      | Hobby Skillset       |
+| -------------------------- | -------------------- |
+| On Prem and Cloud DevOps   | Unreal Engine        |
+| Ansible Automation         | Photography          |
+| Server Administration      | Digital Art          |
+| Bare Metal via Maas        | Photogrammetry       |
+| Containers and Hypervisors | Blockchain use cases |
 
 ### Current Focus
 
