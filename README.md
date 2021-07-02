@@ -30,7 +30,7 @@ The last 5 years in New Zealand was as an IT manager that included system engine
 
 My past before said startup has been a 50/50 split of technical and creative experiences. I have a past background in on-set production and post VFX / Compositing which also includes on-set and post audio for small movies, music, and commercials in Nashville and New York City. Today, I'm currently studying CyberSecurity and [Shooting ocean sports](https://www.kite.nz) in my spare time.
 
-| Professional Skillset      | Hobby Skillset       |
+| Professional Skill set     | Hobby Skill set      |
 | -------------------------- | -------------------- |
 | On Prem and Cloud DevOps   | Unreal Engine        |
 | Ansible Automation         | Photography          |
@@ -42,7 +42,7 @@ My past before said startup has been a 50/50 split of technical and creative exp
 
 Cybersecurity, Ansible Automation, Kubernetes, Stack Development, Linux and Windows Server Management, Networking, Bash Scripting, Docker
 
-- [x] [![Cisco CyberOps Intoduction Credential](https://img.shields.io/badge/Cisco-CyberOps%20Introduction-brightgreen?style=flat-square&logo=cisco)](https://www.credly.com/badges/41b7aa38-e84d-4283-942f-e5b6dd612cbe) Completed and Passed Verification
+- [x] [![Cisco CyberOps Introduction Credential](https://img.shields.io/badge/Cisco-CyberOps%20Introduction-brightgreen?style=flat-square&logo=cisco)](https://www.credly.com/badges/41b7aa38-e84d-4283-942f-e5b6dd612cbe) Completed and Passed Verification
 - [x] [![Cisco CyberOps Essential Credential](https://img.shields.io/badge/Cisco-CyberOps%20Essentials-brightgreen?style=flat-square&logo=cisco)](https://www.credly.com/badges/ed9ff8dc-9fe4-4e25-8c89-22c092716bd1) Completed and Passed Verification
 - [ ] [![Cisco CyberOps Associate Credential](https://img.shields.io/badge/Cisco-CyberOps%20Associate-blue?style=flat-square&logo=cisco)](https://www.credly.com/org/cisco/badge/cyberops-associate) In progress ...
 
