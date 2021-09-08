@@ -10,13 +10,13 @@
 
 <!-- TOC -->
 
-- [Shane Holloman Resume](#shane-holloman-resume)
-  - [Preamble](#preamble)
+- [Preamble](#preamble)
+    - [Favorite Tools](#favorite-tools)
     - [Current Focus](#current-focus)
-  - [Experience](#experience)
+- [Experience](#experience)
     - [Recent Experience](#recent-experience)
     - [Past Experience](#past-experience)
-  - [Studies](#studies)
+- [Studies](#studies)
     - [Current Study](#current-study)
     - [Past Study](#past-study)
 
@@ -25,6 +25,21 @@
 ## Preamble
 
 Currently studying Cybersecurity for the [Cisco CyberOps Associate Certification](https://www.credly.com/org/cisco/badge/cyberops-associate)
+
+### Favorite Tools
+
+In no particular order:
+
+| Tool       | Link                                            |
+| ---------- | ----------------------------------------------- |
+| MkDocs     | <https://www.mkdocs.org/>                       |
+| Ansible    | <https://docs.ansible.com/>                     |
+| Terraform  | <https://www.terraform.io/docs/>                |
+| LXD        | <https://linuxcontainers.org/lxd/introduction/> |
+| Docker     | <https://docs.docker.com/>                      |
+| Podman     | <https://docs.podman.io/en/latest/>             |
+| Kubernetes | <https://kubernetes.io/docs/>                   |
+| Maas       | <https://maas.io/docs/>                         |
 
 The last 5 years in New Zealand was as an IT manager that included system engineering, turnkey on-premise infrastructure builds, large-scale render farms, and client solutions with some DevOps for a video photogrammetry company. That startup had some 90+ folks employed at one point. This required quite a bit of on-premise IT infrastructure design and deployment in multiple countries both for us and our clients. I learned Ansible as a tool to commission bare metal render farms and maintain systems in Wellington, Seoul, and Tokyo. That job was pretty awesome most of the time. Probably the best part was the fact I was always learning something new and occasionally having my hat handed to me by some left field challenge. It was my first startup and I would definitely do another if I had the chance.
 
@@ -44,7 +59,7 @@ Cybersecurity, Ansible Automation, Kubernetes, Stack Development, Linux and Win
 
 - [x] [![Cisco CyberOps Introduction Credential](https://img.shields.io/badge/Cisco-CyberOps%20Introduction-brightgreen?style=flat-square&logo=cisco)](https://www.credly.com/badges/41b7aa38-e84d-4283-942f-e5b6dd612cbe) Completed and Passed Verification
 - [x] [![Cisco CyberOps Essential Credential](https://img.shields.io/badge/Cisco-CyberOps%20Essentials-brightgreen?style=flat-square&logo=cisco)](https://www.credly.com/badges/ed9ff8dc-9fe4-4e25-8c89-22c092716bd1) Completed and Passed Verification
-- [ ] [![Cisco CyberOps Associate Credential](https://img.shields.io/badge/Cisco-CyberOps%20Associate-blue?style=flat-square&logo=cisco)](https://www.credly.com/org/cisco/badge/cyberops-associate) In progress ...
+- [ ] [![Cisco CyberOps Associate Credential](https://img.shields.io/badge/Cisco-CyberOps%20Associate-blue?style=flat-square&logo=cisco)](https://www.credly.com/org/cisco/badge/cyberops-associate) Still in progress!
 
 ## Experience
 
