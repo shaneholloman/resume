@@ -1,6 +1,6 @@
 # Shane Holloman Resume
 
-> DevOps Systems Engineer - Cybersecurity Student
+> Devops Specialist
 > Wellington NZ
 
 [Email](mailto:shaneholloman@gmail.com)  
