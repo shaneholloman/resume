@@ -63,7 +63,7 @@ Cybersecurity, Ansible Automation, Kubernetes, Stack Development, Linux and Win
 
 ### Present
 
-- **Senior Devops • Engineer**
+- **Senior Devops Engineer**
 
   > DevOps • System Engineer • Automation • VMware  
   > `kordia Ltd • 2021 - Present`
