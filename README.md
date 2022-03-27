@@ -28,8 +28,6 @@ Currently studying Cybersecurity for the [Cisco CyberOps Associate Certification
 
 ### Favorite Tools
 
-In no particular order:
-
 | Tool       | Link                                            |
 | ---------- | ----------------------------------------------- |
 | MkDocs     | <https://www.mkdocs.org/>                       |
@@ -41,9 +39,9 @@ In no particular order:
 | Kubernetes | <https://kubernetes.io/docs/>                   |
 | Maas       | <https://maas.io/docs/>                         |
 
-The last 5 years in New Zealand was as an IT manager that included system engineering, turnkey on-premise infrastructure builds, large-scale render farms, and client solutions with some DevOps for a video photogrammetry company. That startup had some 90+ folks employed at one point. This required quite a bit of on-premise IT infrastructure design and deployment in multiple countries both for us and our clients. I learned Ansible as a tool to commission bare metal render farms and maintain systems in Wellington, Seoul, and Tokyo. That job was pretty awesome most of the time. Probably the best part was the fact I was always learning something new and occasionally having my hat handed to me by some left field challenge. It was my first startup and I would definitely do another if I had the chance.
+Currently I operate as Senior DevOps Engineer for Kordia Ltd as of November 2021.  The prior 5 years I was an IT Manager that included systems engineering, turnkey on-premise infrastructure builds, large-scale render farms, and client solutions with some DevOps for a video photogrammetry company. That startup had some 90+ folks employed. This required on-premise IT infrastructure design and deployment in multiple countries both for us and our clients. Here, I learned Ansible as a tool to commission bare metal render farms and maintain systems in Wellington, Seoul, and Tokyo. That job was great and very fast paced. The best part was learning new tech and occasionally fielding some left field challenges. This was my first startup and I’d likely do another if the tech was interesting to me.
 
-My past before said startup has been a 50/50 split of technical and creative experiences. I have a past background in on-set production and post VFX / Compositing which also includes on-set and post audio for small movies, music, and commercials in Nashville and New York City. Today, I'm currently studying CyberSecurity and [Shooting ocean sports](https://www.kite.nz) in my spare time.
+Before that has been a 50/50 split of technical and creative experiences. I’ve a past background in on-set production and post VFX / Compositing which included on-set and post audio for small movies, music, and commercials in Nashville and New York City. Today, I'm currently studying CyberSecurity and https://www.kite.nz in my spare time.
 
 | Professional Skill set     | Hobby Skill set      |
 | -------------------------- | -------------------- |
@@ -62,6 +60,13 @@ Cybersecurity, Ansible Automation, Kubernetes, Stack Development, Linux and Win
 - [ ] [![Cisco CyberOps Associate Credential](https://img.shields.io/badge/Cisco-CyberOps%20Associate-blue?style=flat-square&logo=cisco)](https://www.credly.com/org/cisco/badge/cyberops-associate) Still in progress!
 
 ## Experience
+
+### Present
+
+- **Senior Devops • Engineer**
+
+  > DevOps • System Engineer • Automation • VMware  
+  > `kordia Ltd • 2021 - Present`
 
 ### Recent Experience
 
